@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://wiktorrlewandowski.github.io/projekt-grupa-3/",
+  "homepage": "https://AnastazjaNikolaBokun.github.io/Anastazja-Filmoteka-Group-Project-COPY-GOIT/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /projekt-grupa-3/"
+    "build": "parcel build src/*.html --public-url /Anastazja-Filmoteka-Group-Project-COPY-GOIT/"
   },
   "repository": {
     "type": "git",
