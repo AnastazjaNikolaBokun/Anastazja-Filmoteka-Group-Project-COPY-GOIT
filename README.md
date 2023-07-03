@@ -1,5 +1,5 @@
-# projekt grupy 3
+# (kopia projektu na zaliczenie GoIT) - projekt grupy 3 
 
 ## Movie DB API
 
-https://wiktorrlewandowski.github.io/projekt-grupa-3/
+https://anastazjanikolabokun.github.io/Anastazja-Filmoteka-Group-Project-COPY-GOIT/
